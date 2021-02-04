@@ -3,7 +3,6 @@ import { ActivatedRoute } from '@angular/router';
 import { ContactService } from './../shared/contact.service';
 import { Contact } from './../shared/contact';
 import { Component, OnInit } from '@angular/core';
-import { Console } from 'console';
 
 @Component({
   selector: 'app-contact-form',
